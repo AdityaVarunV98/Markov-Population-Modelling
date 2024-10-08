@@ -1,0 +1,5 @@
+DataGeneration.ipynb: Code to generate the synthetic data
+
+ProfitModels.ipynb: Contains profit vs population models at the different locations
+
+Model.ipynb: Code for predicting the transition matrix, and applying this to evaluate the profits.
